@@ -27,3 +27,4 @@ Followed tutorial: https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR
 **Need to add in this game**
 * Rolling spheres
 * Features that the professor talked about. My thought: at some point of the game the race track turns upside down and the obstacles starts falling off from above, and the player will need to avoid them or lose. The score that the player has accumulated so far can be used to trade for shields. Or the obstacles falls down to become bonus points, and the player can collect the bonus points.
+* More
