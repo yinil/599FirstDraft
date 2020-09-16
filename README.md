@@ -6,13 +6,12 @@ Main features:
 -- welcome scene
 -- goodbye scene
 -- 3 simple levels
-- Description:
--- Very simple with 1, 2 and 3 obstacles for levels 1, 2 and 3
--- The player automatically runs forward on the race track when the game starts
--- If the player collides with an obstacle or fall off the track, the player loses and the game automatically restarts
--- If the player runs through the race track without hitting any obstacles, this level is considered completed. A "level complete!" panel appears and the game automatically
--- The score on the upper left corner is just how far the player has run.
-loads the next level or the goodbye scene
+Description:
+- Very simple with 1, 2 and 3 obstacles for levels 1, 2 and 3
+- The player automatically runs forward on the race track when the game starts
+- If the player collides with an obstacle or fall off the track, the player loses and the game automatically restarts
+- If the player runs through the race track without hitting any obstacles, this level is considered completed. A "level complete!" panel appears and the game automatically loads the next level or the goodbye scene
+- The score on the upper left corner is just how far the player has run.
 Takeaways from this tutorial:
 - Set up a game from start to end with transitions between the scenes
 - Make the camera follow the player's position without rotating with the player
